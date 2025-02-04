@@ -1,16 +1,5 @@
-<<<<<<< HEAD
-"homepage": "https://victortterry.github.io/Portfolio"
+"homepage": "https://victortterry.github.io/Portfolio",
 "scripts": {
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build"
-=======
-{
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
-  },
-  "dependencies": {
-    "bootstrap": "^5.3.3"
-  }
->>>>>>> b0574cc (Initial commit)
 }
-
