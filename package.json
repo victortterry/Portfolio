@@ -1,5 +1,12 @@
-"homepage": "https://victortterry.github.io/Portfolio",
-"scripts": {
-  "predeploy": "npm run build",
-  "deploy": "gh-pages -d build"
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "A sample project",
+  "homepage": "https://victortterry.github.io/Portfolio",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
